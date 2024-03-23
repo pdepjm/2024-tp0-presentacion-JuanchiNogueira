@@ -2,6 +2,7 @@ PRESENTACION
 
 Buenas, me presento mi nombre es Juan Jose y este es mi tercer año cursando en la facultad, les dejo algunos datos mios:
 
+- Legajo: 2091112
 - Edad: 20
 - Amo el invierno
 - Fanatico de los jueguitos, de todo tipo
